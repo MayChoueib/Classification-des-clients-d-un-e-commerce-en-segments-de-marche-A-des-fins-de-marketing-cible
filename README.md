@@ -4,9 +4,9 @@
 Olist, une entreprise brésilienne qui propose une solution de vente sur les marketplaces en ligne souhaite obtenir une segmentation de ses clients utilisable au quotidien par leur équipe marketing dans leurs campagnes de communication
 
 ## Objectifs :
-	Comprendre les différents types d'utilisateurs grâce à leur comportement
-	Fournir à Olist une segmentation de ses clients avec une description actionnable de cette segmentation 
-	Fournir à Olist une proposition de contrat de maintenance basée sur une analyse de la stabilité des segments au cours du temps
+*	Comprendre les différents types d'utilisateurs grâce à leur comportement
+* Fournir à Olist une segmentation de ses clients avec une description actionnable de cette segmentation 
+*	Fournir à Olist une proposition de contrat de maintenance basée sur une analyse de la stabilité des segments au cours du temps
 ## Données
 Les données sont réparties en 9 tables comme illustrées sur le schéma ci-dessous : 
 <p align="center"><img src="images/ Schema_donnees " style="width: 500px"/></p>
