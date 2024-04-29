@@ -15,19 +15,22 @@ Elles sont disponibles sur le site kaggle via ce lien
 
 ## Etapes du projet
 Le projet est découpé en trois parties :   
-### 1. Notebook_Exploration : Notebook de nettoyage et d’analyse exploratoire des données me permettant de déterminer les variables pertinentes pour la modélisation et les prédictions. Il contient :
+### 1. Notebook_Exploration : 
+Notebook de nettoyage et d’analyse exploratoire des données me permettant de déterminer les variables pertinentes pour la modélisation et les prédictions. Il contient :
 -	Nettoyage et visualisation des données
 -	Analyse des outliers
 -	Analyse de la pertinence des variables
 -	Feature engineering
 Images : <img src=" Image description des datas" width="600" height="200" />
-### 2. Notebook_essais : Notebook de modélisations avec 3 Modèles de classification non supervisée ont été testés. 
+### 2. Notebook_essais : 
+Notebook de modélisations avec 3 Modèles de classification non supervisée ont été testés. 
 . Les démarches pour sélectionner le meilleur modèle sont illustrées dans le schéma ci-dessous : 
 <p align="center"><img src="images/ demarche_selection " style="width: 500px"/></p>
 Les meilleurs résultats sont obtenus avec kmeans. Une segmentation basée sur Recency, Frequency, Monetary, la moyenne par client (satisfaction, nombre de produits achetés, nombre de moyens de paiement et des échéances) et son état de provenance (Saint Paulo ou pas) a été réalisée et a donné 4 segments tel qu’illustré sur les diagrammes ci-dessous avec la description et les recommandations commerciales pour chaque segment :
 <p align="center"><img src="images/ cluster1-2 " style="width: 500px"/></p>
 <p align="center"><img src="images/ cluster3-4" style="width: 500px"/></p>
 
-### 3. Notebook_simulation : Notebook de prédiction de la durée de contrat de maintenance
+### 3. Notebook_simulation : 
+Notebook de prédiction de la durée de contrat de maintenance
 <p align="center"><img src="images/ maintenance " style="width: 500px"/></p>
 
