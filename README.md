@@ -11,7 +11,7 @@ Olist, une entreprise brésilienne qui propose une solution de vente sur les mar
 Les données sont réparties en 9 tables comme illustrées sur le schéma ci-dessous : 
 <p align="center"><img src="images/Schema_donnees.png" style="width: 500px"/></p>
 
-Elles sont disponibles sur le site kaggle via ce lein [([lien](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce))]
+Elles sont disponibles sur le site kaggle via ce [lien](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ## Etapes du projet
 Le projet est découpé en trois parties :   
